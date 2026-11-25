@@ -1,4 +1,4 @@
-"""the file represents a single donated food item in the FreshTrack pantry system."""
+"""This file represents a single donated food item in the FreshTrack pantry system."""
 
 class FoodItem:
     def __init__(self, item_id, name, category, quantity, expiration_date):
